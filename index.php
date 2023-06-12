@@ -249,102 +249,137 @@ $_SESSION['c'] = $_SESSION['a'] + $_SESSION['b'];
                 <div class="row justify-content-center">
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://vps27605ua.hyperhost.name:9000/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/online_poker.jpg" alt="..." /></a>
+                            <a href="http://vps27605ua.hyperhost.name/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/online_poker.jpg" alt="Online Poker" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://fb.gg/play/free_poker_online" target="_blank"><img class="img-fluid" src="assets/img/portfolio/online_poker_fb.jpg" alt="..." /></a>
+                            <a href="https://play.google.com/store/apps/details?id=ua.net.olexandrkuriachiy.onlinepoker" target="_blank"><img class="img-fluid" src="assets/img/portfolio/online_poker_fb.jpg" alt="Online Poker Android" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://bw-blackjack.bwhale.biz/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/bwblackjack.jpg" alt="..." /></a>
+                            <a href="https://preprod.gettagaming.com/mega_gem_rumble/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/mega_gem_rumble.jpg" alt="Mega Gem Rumble" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://bw-euroroulette.bwhale.biz/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/bweuropeanroulette.jpg" alt="..." /></a>
+                            <a href="https://bw-blackjack.bwhale.biz/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/bwblackjack.jpg" alt="Blackjack" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="http://euroroulette.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/euroroulette.jpg" alt="..." /></a>
+                            <a href="https://bw-euroroulette.bwhale.biz/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/bweuropeanroulette.jpg" alt="Euro Roulette" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://americanroulette.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/americanroulette.jpg" alt="..." /></a>
+                            <a href="http://euroroulette.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/euroroulette.jpg" alt="Euro Roulette" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://blackjack.bwhale.biz/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/blackjack.jpg" alt="..." /></a>
+                            <a href="https://americanroulette.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/americanroulette.jpg" alt="American Roulette" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://blackjack-five-hands.bwhale.biz/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/bj_5hands.jpg" alt="..." /></a>
+                            <a href="https://blackjack.bwhale.biz/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/blackjack.jpg" alt="Blackjack" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://genies-magical-lamp.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/genies_magical_lamp.jpg" alt="..." /></a>
+                            <a href="https://blackjack-five-hands.bwhale.biz/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/bj_5hands.jpg" alt="Black Jack 5 hands" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://get-it-done.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/get_it_done.jpg" alt="..." /></a>
+                            <a href="https://preprod.gettagaming.com/steamy_blox/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/steamy_blox.jpg" alt="Steamy Blox" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://freds-golden-path.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/freds_golden_path.jpg" alt="..." /></a>
+                            <a href="https://genies-magical-lamp.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/genies_magical_lamp.jpg" alt="Genies Magical Lamp" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://lucky-red-head.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/lucky_red_head.jpg" alt="..." /></a>
+                            <a href="https://get-it-done.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/get_it_done.jpg" alt="Get It Done" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://kingdoms.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/kingdoms.jpg" alt="..." /></a>
+                            <a href="https://freds-golden-path.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/freds_golden_path.jpg" alt="Freds Golden Path" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://gang-spinners.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/gang_spinners.jpg" alt="..." /></a>
+                            <a href="https://lucky-red-head.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/lucky_red_head.jpg" alt="Lucky Red Head" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://boo.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/boo.jpg" alt="..." /></a>
+                            <a href="https://kingdoms.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/kingdoms.jpg" alt="Kindoms" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://pirates.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/pirates.jpg" alt="..." /></a>
+                            <a href="https://gang-spinners.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/gang_spinners.jpg" alt="Gang Spinners" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://aztec-gold.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/aztec_gold.jpg" alt="..." /></a>
+                            <a href="https://boo.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/boo.jpg" alt="Boo" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://african-masks.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/african_masks.jpg" alt="..." /></a>
+                            <a href="https://pirates.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/pirates.jpg" alt="Pirates" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://jack-in-a-box.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/jack_in_a_box.jpg" alt="..." /></a>
+                            <a href="https://aztec-gold.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/aztec_gold.jpg" alt="Aztec Gold" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://classic-seven.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/classic_seven.jpg" alt="..." /></a>
+                            <a href="https://african-masks.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/african_masks.jpg" alt="African Masks" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-auto mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="https://jack-in-a-box.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/jack_in_a_box.jpg" alt="Jack In A Box" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-auto mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="https://classic-seven.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/classic_seven.jpg" alt="Classic Seven" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-auto mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="https://robin-the-rewarding.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/robin_the_rewarding.jpg" alt="Robin The Rewarding" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-auto mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="https://gold-miner.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/gold_miner.jpg" alt="Gold Miner" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-auto mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="https://wild-safari.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/wild_safari.jpg" alt="Wild Safari" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-auto mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="https://countess-dracula.gettagaming.com/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/countess_dracula.jpg" alt="Countess Dracula" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-auto mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="https://preprod.gettagaming.com/pawn_shop_hit/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/pawn_shop_hit.jpg" alt="Pawn Shop Hit" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
