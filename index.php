@@ -136,7 +136,7 @@ $_SESSION['c'] = $_SESSION['a'] + $_SESSION['b'];
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ms-auto"><p class="lead">I am skilled and proficient when it comes to Game Development (HTML5, CreateJs, PixiJs, Cocos Creator), Flash Animation (Actionscript 3.0), or any Graphic Designs related, and I can assure you my reliability and dedication when it comes to work.. I'm Currently working as a full-time Game Developer. If you want to know further information about me, just let me know..</p></div>
+                    <div class="col-lg-4 ms-auto"><p class="lead">I am skilled and proficient when it comes to Game Development (HTML5, CreateJs, PixiJs, Cocos Creator), Flash Animation (Actionscript 3.0), or any Graphic Designs related, and I can assure you my reliability and dedication when it comes to work.. If you want to know further information about me, just let me know..</p></div>
                     <div class="col-lg-4 me-auto"><p class="lead"><img src="assets/img/freelancer.jpg"></p></div>
                 </div>
             </div>
