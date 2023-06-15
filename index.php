@@ -384,7 +384,12 @@ $_SESSION['c'] = $_SESSION['a'] + $_SESSION['b'];
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
-                            <a href="https://vps27605ua.hyperhost.name:9000/Match3Test/tool.html" target="_blank"><img class="img-fluid" src="assets/img/portfolio/furious_girl.jpg" alt="..." /></a>
+                            <a href="http://vps27605ua.hyperhost.name/Match3Test/tool.html" target="_blank"><img class="img-fluid" src="assets/img/portfolio/furious_girl.jpg" alt="..." /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-auto mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="http://vps27605ua.hyperhost.name/PixiMinesweeperTest/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/minesweeper.jpg" alt="Minesweeper" /></a>
                         </div>
                     </div>
                 </div>
