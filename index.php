@@ -259,17 +259,22 @@ $_SESSION['c'] = $_SESSION['a'] + $_SESSION['b'];
                     </div>
                     <div class="col-md-auto mb-5">
                         <div class="portfolio-item mx-auto">
+                            <a href="http://vps27605ua.hyperhost.name:9002/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/differences.png" alt="ind differences" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-auto mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="https://preprod.bwhale.biz/bw_blackjack/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/bwblackjack.jpg" alt="Blackjack" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-auto mb-5">
+                        <div class="portfolio-item mx-auto">
+                            <a href="https://preprod.bwhale.biz/bw_euroroulette/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/bweuropeanroulette.jpg" alt="Euro Roulette" /></a>
+                        </div>
+                    </div>
+                    <div class="col-md-auto mb-5">
+                        <div class="portfolio-item mx-auto">
                             <a href="https://preprod.gettagaming.com/mega_gem_rumble/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/mega_gem_rumble.jpg" alt="Mega Gem Rumble" /></a>
-                        </div>
-                    </div>
-                    <div class="col-md-auto mb-5">
-                        <div class="portfolio-item mx-auto">
-                            <a href="https://bw-blackjack.bwhale.biz/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/bwblackjack.jpg" alt="Blackjack" /></a>
-                        </div>
-                    </div>
-                    <div class="col-md-auto mb-5">
-                        <div class="portfolio-item mx-auto">
-                            <a href="https://bw-euroroulette.bwhale.biz/" target="_blank"><img class="img-fluid" src="assets/img/portfolio/bweuropeanroulette.jpg" alt="Euro Roulette" /></a>
                         </div>
                     </div>
                     <div class="col-md-auto mb-5">
